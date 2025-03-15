@@ -15,6 +15,7 @@ public class MemoryGame {
         scanner = new Scanner(System.in);
     }
 
+
     public void displayMenu() {
         while (true) {
             System.out.println("\nMENU:");
